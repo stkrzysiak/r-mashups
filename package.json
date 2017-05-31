@@ -18,7 +18,7 @@
     "redwrap": "0.0.4",
     "shelljs": "0.7.5",
     "youtube-dl": "1.11.1",
-    "snyk": "^1.25.2"
+    "snyk": "^1.32.0"
   },
   "snyk": true
 }
