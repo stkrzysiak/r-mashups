@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "babel-node index.js",
     "snyk-protect": "snyk protect",
-    "prepublish": "npm run snyk-protect"
+    "prepublish": "npm run snyk-protect",
+    "prepare": "npm run snyk-protect"
   },
   "author": "",
   "license": "ISC",
@@ -18,7 +19,7 @@
     "redwrap": "0.0.4",
     "shelljs": "0.7.5",
     "youtube-dl": "1.11.1",
-    "snyk": "^1.32.0"
+    "snyk": "^1.87.0"
   },
   "snyk": true
 }
